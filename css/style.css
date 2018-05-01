@@ -1,4 +1,16 @@
-
+/*
+ like mobile view style
+.rmm.style2 {text-align: left; font-family: Tahoma;}
+.rmm.style2 ul {box-shadow: 0px 0px 9px rgba(0, 0, 0, 0.15); background:#990; text-transform: uppercase; display: inline-table; text-align:left; width: 100%;}
+.rmm.style2 ul li {float: none;}
+.rmm.style2 ul li:hover {background: #4b545f;}
+.rmm.style2 ul ul {display: none; margin:0; background: #5f6975; border-radius: 0px; padding: 0; position: relative;}
+.rmm.style2 ul li a {color: #fff; font-weight:600; display: block; padding: 15px 35px; text-decoration: none; font-weight:600; }
+.rmm.style2 ul ul li {border-bottom: 1px solid #575F6A; border-top: 1px solid #6B727C;}
+.rmm.style2 ul ul li a {padding: 12px 35px; color: #fff; }
+.rmm.style2 ul ul li a:hover {background: #4b545f;}
+.rmm.style2 ul ul ul {left: 0;}
+*/
 
 * {
     margin: 0;
@@ -13,7 +25,7 @@ body{
 }
      
 p {
-     color:#fff;
+     color:#524c56;
      font-size: 160%;
      line-height:155%;
      padding: 3%;
